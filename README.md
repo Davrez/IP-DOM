@@ -13,7 +13,7 @@ $sudo apt install python3
 
 $sudo apt install git
 
-$git clone
+$git clone https://github.com/Davrez/IP-DOM
 
 $cd IP-DOM
 
